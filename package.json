@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "serialport": "^12.0.0",
-    "smartmeter-obis": "^2.3.0"
+    "smartmeter-obis": "^4.0.0"
   },
   "keywords": [
     "node-red",
